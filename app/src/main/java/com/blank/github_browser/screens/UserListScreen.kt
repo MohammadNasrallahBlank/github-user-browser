@@ -34,7 +34,6 @@ import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import coil.compose.AsyncImage
-import com.blank.github_browser.composables.UserListItem
 import com.blank.github_browser.data.GitHubUser
 import com.blank.github_browser.viewmodels.UserListUiState
 import com.blank.github_browser.viewmodels.UserListViewModel
